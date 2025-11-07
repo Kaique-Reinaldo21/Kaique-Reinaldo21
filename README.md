@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Kaique Reinaldo  
+# YO! Eu sou o Kaique Reinaldo  
 
 💻 Estudante de **Desenvolvimento de Sistemas Multiplataforma**  
 🌱 Atualmente aprendendo **C, HTML, CSS e JavaScript**  
