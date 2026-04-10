@@ -11,13 +11,17 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?Kaique-Reinaldo21
+=Kaique-Reinaldo21
+&show_icons=true&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username
+=Kaique-Reinaldo21&layout=compact&theme=tokyonight"/>
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username
+=Kaique-Reinaldo21&layout=compact&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=Kaique-Reinaldo21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kaique-Reinaldo21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Reinaldo21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
