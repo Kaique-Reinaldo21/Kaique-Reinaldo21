@@ -1,5 +1,5 @@
 # About Me:
-## Fala aí!<br><br>Sou um dev em construção   <br>  Estudante de **Desenvolvimento de Sistemas Multiplataforma** <br>Curto tecnologia, programação e resolver problemas.<br><br> Atualmente deselvolvendo em:<br>- JavaScript / Typescript <br>- Agent IA <br><br> Interesses:<br>- criação de sistesmas e paginas web<br>- <br><br> Em busca de evolução constante!<br><br>---<br><br> Dá uma olhada nos meus repositórios!
+## Fala aí!<br><br>Sou um dev em construção   <br>  Estudante de **Desenvolvimento de Sistemas Multiplataforma** <br>Curto tecnologia, programação e resolver problemas.<br><br> Atualmente deselvolvendo em:<br>- JavaScript / Typescript <br>- Agent IA <br><br> Interesses:<br>- criação de sistemas e paginas web<br>- <br><br> Em busca de evolução constante!<br><br>---<br><br> Dá uma olhada nos meus repositórios!
 
 
 ## 🌐 Socials:
@@ -7,6 +7,7 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![JSR Version](https://img.shields.io/jsr/v/:scope/:packageName)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Kaique-Reinaldo21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
