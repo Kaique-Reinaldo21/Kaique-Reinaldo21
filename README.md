@@ -1,5 +1,5 @@
 # About Me:
-## Fala aí!<br><br>Sou um dev em construção   <br>  Estudante de **Desenvolvimento de Sistemas Multiplataforma** <br>Curto tecnologia, programação e resolver problemas.<br><br> Atualmente aprendendo:<br>- JavaScript<br>- Java<br>- Python<br>- Node.js<br>- SQL<br><br> Interesses:<br>- Back-end<br>- APIs<br>- Sistemas<br><br> Em busca de evolução constante!<br><br>---<br><br> Dá uma olhada nos meus repositórios!
+## Fala aí!<br><br>Sou um dev em construção   <br>  Estudante de **Desenvolvimento de Sistemas Multiplataforma** <br>Curto tecnologia, programação e resolver problemas.<br><br> Atualmente deselvolvendo em:<br>- JavaScript / Typescript <br>- Agent IA <br><br> Interesses:<br>- criação de sistesmas e paginas web<br>- <br><br> Em busca de evolução constante!<br><br>---<br><br> Dá uma olhada nos meus repositórios!
 
 
 ## 🌐 Socials:
